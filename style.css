@@ -335,7 +335,7 @@ html[data-w-dynpage] [data-w-cloak] {
   margin: unset;
 }
 
-.w-webflow-badge,
+/*.w-webflow-badge,
 .w-webflow-badge * {
   z-index: auto;
   visibility: visible;
@@ -415,12 +415,12 @@ html[data-w-dynpage] [data-w-cloak] {
   overflow: visible !important;
   transform: none !important;
 }
-
+*/
 .w-webflow-badge > img {
   visibility: visible !important;
   opacity: 1 !important;
   vertical-align: middle !important;
-  display: inline-block !important;
+  display: none !important;
 }
 
 h1,
